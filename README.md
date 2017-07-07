@@ -5,4 +5,9 @@ After clicking a link amazon website opens in a browser.
 
 My implementation of "React Native and Redux" course excercise.
 
-imgur images here
+<p align="center">
+  <img src="http://i.imgur.com/HtCikbq.png" width="350"/>
+  <img src="http://i.imgur.com/Z1mHsgA.png" width="350"/>
+  <img src="http://i.imgur.com/b9BhOk8.png" width="350"/>
+  <img src="http://i.imgur.com/l99bStn.png" width="350"/>
+</p>
