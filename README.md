@@ -7,7 +7,7 @@ My implementation of "React Native and Redux" course excercise.
 
 <p align="center">
   <img src="http://i.imgur.com/HtCikbq.png" width="350"/>
-  <img src="http://i.imgur.com/Z1mHsgA.png" width="350"/>
+  <img src="http://i.imgur.com/HbqkMKJ.png" width="350"/>
   <img src="http://i.imgur.com/b9BhOk8.png" width="350"/>
   <img src="http://i.imgur.com/l99bStn.png" width="350"/>
 </p>
