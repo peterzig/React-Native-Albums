@@ -17,7 +17,7 @@ import AlbumList from './src/components/AlbumList';
 export default class AwesomeProject extends Component {
   render() {
     return (
-      <View>
+      <View style={{ flex: 1 }}>
 
         <Header headerText={'Albums'}/>
         <AlbumList />
